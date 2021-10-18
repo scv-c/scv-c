@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @scv-c
-- 👀 I’m interested in Web Programing,Server Programing.
-- 🌱 I’m currently learning Javascript with CHAT-BOT, and now working in small company.
-- 💞️ I'm not speaking English very well, plz speak to Korean
-- 📫 If u want to send E-mail to me, here ! "scv_c@naver.com"
+- 👋 안녕, 나는 아직 노예인 @scv-c
+- 👀 나는 흥미를 가지고 있어. 웹, 서버
+- 🌱 나는 회사에서 주로 자바스크립트를 사용해.
+- 💞️ 영어 잘 못해, 한국말로 말해줘.
+- 📫 만약 나에게 메일을 보내고 싶으면, >> scv_c@naver.com <<
 
 <!---
 scv-c/scv-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
